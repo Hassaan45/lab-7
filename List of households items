@@ -7,4 +7,8 @@ List<string> householdItems = new List<string>
             "Bed"
         };
 
+2nd-br
+householdItems.Add("washing machine")
+
 householdItems.Add("refrigerator");
+main
