@@ -1,5 +1,8 @@
-bed 
-sofa
-table
-chair
-refrigerator
+List<string> householdItems = new List<string>
+        {
+            "Table",
+            "Chair",
+            "Sofa",
+            "Lamp",
+            "Bed"
+        };
