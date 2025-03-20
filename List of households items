@@ -6,3 +6,5 @@ List<string> householdItems = new List<string>
             "Lamp",
             "Bed"
         };
+
+householdItems.Add("washing machine")
